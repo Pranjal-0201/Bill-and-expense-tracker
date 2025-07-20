@@ -6,7 +6,7 @@ A Java-based desktop application to manage shared expenses and split bills among
 
 ---
 
-## ✨ Features
+## Features
 - Add people and record expenses
 - Automatically splits expenses among participants
 - Tracks balances in real-time
@@ -14,7 +14,7 @@ A Java-based desktop application to manage shared expenses and split bills among
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Java, Swing, OOP
 - `.jar` integration (MySQL Connector)
 - Git & GitHub for version control
